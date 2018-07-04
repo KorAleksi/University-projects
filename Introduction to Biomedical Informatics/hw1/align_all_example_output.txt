@@ -1,0 +1,15 @@
+3.0
+AATGC
+_AGGC
+
+AATGC
+A_GGC
+
+AATGC
+AG_GC
+
+AATG_C
+A__GGC
+
+AATG_C
+_A_GGC

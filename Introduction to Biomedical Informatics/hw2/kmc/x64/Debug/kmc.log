@@ -1,0 +1,3 @@
+﻿  kmc.cpp
+c:\users\aleks\onedrive - tty-saatio\inha\introduction to biomedical informatics\hw2\hw2\kmc\kmc.cpp(47): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  kmc.vcxproj -> C:\Users\aleks\OneDrive - TTY-saatio\INHA\Introduction to Biomedical Informatics\hw2\hw2\x64\Debug\kmc.exe
